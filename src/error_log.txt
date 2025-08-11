@@ -1,0 +1,154 @@
+Failed URL: https://gosapteka18.ru/catalog/kromitsil_solofarm_2_kapli_glaznye_10ml.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/ksizal_5mg_ml_kapli_d_priema_vnutr_10ml.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/kontrazud_0_1_gel_5g.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/klaritin_10mg_tab_20.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/klaritin_10mg_tab_30.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/kvisil_drops_5mg_ml_kap_d_pr_vnutr_10ml.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/kontrazud_0_1_gel_50g.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/kontrazud_0_1_gel_30g.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/ksizal_5mg_tab_p_o_7.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/klaritin_10mg_tab_10_1.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/kvisil_tabs_5mg_tab_p_o_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/kvisil_drops_5mg_ml_kap_d_pr_vnutr_20ml.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/levotsetirizin_5mg_tab_p_o_10_1.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/levotsetirizin_teva_5mg_tab_p_o_14.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/levotsetirizin_avva_5mg_ml_kapli_d_priema_vnutr_20ml.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/levotsetirizin_verteks_5mg_tab_p_o_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/levotsetirizin_teva_5mg_tab_p_o_30.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/kvisil_tabs_5mg_tab_p_o_20.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/kvisil_tabs_5mg_tab_p_o_30.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/levotsetirizin_verteks_5mg_tab_p_o_30.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_akrikhin_10mg_tab_30.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_ekolab_1mg_ml_sirop_100ml.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_10mg_tab_10_4.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_akrikhin_10mg_tab_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_10mg_tab_10_1.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_10mg_tab_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/lomilan_10mg_tab_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_renewal_10mg_tab_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_10mg_tab_30.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_renewal_10mg_tab_30.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/momat_rino_50mkg_doza_sprey_nazal_dozir_60doz.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_teva_10mg_tab_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_verteks_10mg_tab_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_teva_10mg_tab_30.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratadin_teva_10mg_tab_7.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/loratavel_10mg_tab_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/lordestin_5mg_tab_p_o_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/momat_rino_advans_140mkg_50mkg_doza_sprey_nazal_dozir_150doz.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/momat_rino_50mkg_doza_sprey_nazal_dozir_120doz.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/momat_rino_advans_140mkg_50mkg_doza_sprey_nazal_dozir_75doz.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/montlezir_5mg_10mg_tab_p_o_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/montral_ml_5mg_10mg_tab_p_o_10.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/montral_ml_5mg_10mg_tab_p_o_50.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/nasobek_50mkg_doza_sprey_nazal_dozir_200doz.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/montral_ml_5mg_10mg_tab_p_o_30.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/montlezir_5mg_10mg_tab_p_o_30.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/mometazon_50mkg_doza_sprey_nazal_140doz.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/mometazon_sandoz_50mkg_doza_sprey_nazal_140doz.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/mometazon_sandoz_50mkg_doza_sprey_nazal_60doz.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/nazarel_50mkg_doza_sprey_nazal_dozir_120doz.html
+Error: Fetch error: 
+
+Failed URL: https://gosapteka18.ru/catalog/asepta_plyus_z_pasta_berezhnoe_otbelevanie_75mlhttps%3A%2F%2Fgosapteka18.ru%2Fbitrix%2Fthemes%2F.default%2Ficons%2Fiblock%2Funlink.gif.html
+Error: Fetch error: Client error '404 Not Found' for url 'https://gosapteka18.ru/catalog/asepta_plyus_z_pasta_berezhnoe_otbelevanie_75mlhttps%3A%2F%2Fgosapteka18.ru%2Fbitrix%2Fthemes%2F.default%2Ficons%2Fiblock%2Funlink.gif.html'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+
