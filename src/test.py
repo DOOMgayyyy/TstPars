@@ -162,3 +162,5 @@ if __name__ == "__main__":
         print(f"Ссылка: {product_url}")
     else:
         print("❌ Не удалось распарсить товар")
+
+        #asdasd
