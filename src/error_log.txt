@@ -152,3 +152,7 @@ Failed URL: https://gosapteka18.ru/catalog/asepta_plyus_z_pasta_berezhnoe_otbele
 Error: Fetch error: Client error '404 Not Found' for url 'https://gosapteka18.ru/catalog/asepta_plyus_z_pasta_berezhnoe_otbelevanie_75mlhttps%3A%2F%2Fgosapteka18.ru%2Fbitrix%2Fthemes%2F.default%2Ficons%2Fiblock%2Funlink.gif.html'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
 
+Failed URL: https://gosapteka18.ru/catalog/asepta_plyus_z_pasta_berezhnoe_otbelevanie_75mlhttps%3A%2F%2Fgosapteka18.ru%2Fbitrix%2Fthemes%2F.default%2Ficons%2Fiblock%2Funlink.gif.html
+Error: Fetch error: Client error '404 Not Found' for url 'https://gosapteka18.ru/catalog/asepta_plyus_z_pasta_berezhnoe_otbelevanie_75mlhttps%3A%2F%2Fgosapteka18.ru%2Fbitrix%2Fthemes%2F.default%2Ficons%2Fiblock%2Funlink.gif.html'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+
